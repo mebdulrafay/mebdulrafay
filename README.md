@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F2FE4&center=true&vCenter=true&width=600&lines=Building+Memora;AI-Assisted+Developer;Hardware+Prototyping+Enthusiast;Turning+IoT+Ideas+Into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F2FE4&center=true&vCenter=true&width=600&lines=Building+Memora+%F0%9F%9A%80;AI-Assisted+Developer;Hardware+Prototyping+Enthusiast;Turning+IoT+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,31 +16,26 @@
 
 ---
 
-## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:circle-info.svg?color=%232F2FE4"> About Me
+## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzE2MkU5MyIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMTUuNSIgcj0iNS41IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTkgMzFjMC02LjUgNS0xMC41IDExLTEwLjVzMTEgNCAxMSAxMC41IiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg==" width="22" height="22" valign="middle"/> About Me
 
 <div align="center">
 
-| <img width="16" height="16" src="https://api.iconify.design/fa6-solid:telescope.svg?color=%232F2FE4"> Currently Building | <img width="16" height="16" src="https://api.iconify.design/fa6-solid:handshake.svg?color=%232F2FE4"> Open to Collaborate On | <img width="16" height="16" src="https://api.iconify.design/fa6-solid:life-ring.svg?color=%232F2FE4"> Looking for Help With |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzE2MkU5MyIvPjxwYXRoIGQ9Ik0yMCA4YzQgMyA1LjUgOCA1LjUgMTIuNSAwIDItLjUgMy41LTEgNC41bC00LjUgNC41LTQuNS00LjVjLS41LTEtMS0yLjUtMS00LjVDMTQuNSAxNiAxNiAxMSAyMCA4eiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMTgiIHI9IjIiIGZpbGw9IiMxNjJFOTMiLz48cGF0aCBkPSJNMTUgMjJsLTMgMyAyIDUgMy0zTTI1IDIybDMgMy0yIDUtMy0zIiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTE3LjUgMjkuNUwyMCAzM2wyLjUtMy41IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIi8+PC9zdmc+Cg==" width="18" height="18" valign="middle"/> Currently Building | <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzJGMkZFNCIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iMjAiIHI9IjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyLjUiLz48Y2lyY2xlIGN4PSIyNCIgY3k9IjIwIiByPSI2IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi41Ii8+PC9zdmc+Cg==" width="18" height="18" valign="middle"/> Open to Collaborate On | <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzE2MkU5MyIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMjAiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyLjUiLz48Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIzLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTIwIDExdjUuNU0yMCAyMy41VjI5TTExIDIwaDUuNU0yMy41IDIwSDI5IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPgo=" width="18" height="18" valign="middle"/> Looking for Help With |
 |:---:|:---:|:---:|
 | [**Memora**](https://github.com/mebdulrafay/Memora) | **Memora** | **Memora** |
 
 </div>
 
-<img width="16" height="16" src="https://api.iconify.design/fa6-solid:seedling.svg?color=%232F2FE4"> Currently learning **Advanced C++, Python Automation & [complete this]**
-<br/>
-<img width="16" height="16" src="https://api.iconify.design/fa6-solid:comment.svg?color=%232F2FE4"> Ask me about **HTML5, CSS3, JavaScript, Python, and [complete this]**
-<br/>
-<img width="16" height="16" src="https://api.iconify.design/fa6-solid:envelope.svg?color=%232F2FE4"> Reach me at **roex.hq@gmail.com**
-<br/>
-<img width="16" height="16" src="https://api.iconify.design/fa6-solid:globe.svg?color=%232F2FE4"> All my projects live at **[mebdlrafay.github.io/dev-roex](https://mebdlrafay.github.io/dev-roex/)**
-<br/>
-<img width="16" height="16" src="https://api.iconify.design/fa6-solid:pen-nib.svg?color=%232F2FE4"> I regularly write articles on **[add your blog link here]**
-<br/>
-<img width="16" height="16" src="https://api.iconify.design/fa6-solid:bolt.svg?color=%232F2FE4"> Fun fact: **I build smart IoT gadgets out of everyday electronics [complete this]**
+- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzJGMkZFNCIvPjxwYXRoIGQ9Ik0yMCAzMFYxOSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNSIvPjxwYXRoIGQ9Ik0yMCAxOWMwLTUtNC04LTktOCAwIDUgNCA4IDkgOHoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMjAgMjJjMC00IDMuNS03IDgtNyAwIDQtMy41IDctOCA3eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPgo=" width="20" height="20" valign="middle"/> Currently learning **Advanced C++, Python Automation & [complete this]**
+- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzE2MkU5MyIvPjxyZWN0IHg9IjkiIHk9IjExIiB3aWR0aD0iMjIiIGhlaWdodD0iMTUiIHJ4PSI0IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTE1IDI2bC0yIDUgNi01IiBmaWxsPSIjZmZmIi8+PGNpcmNsZSBjeD0iMTUiIGN5PSIxOC41IiByPSIxLjQiIGZpbGw9IiMxNjJFOTMiLz48Y2lyY2xlIGN4PSIyMCIgY3k9IjE4LjUiIHI9IjEuNCIgZmlsbD0iIzE2MkU5MyIvPjxjaXJjbGUgY3g9IjI1IiBjeT0iMTguNSIgcj0iMS40IiBmaWxsPSIjMTYyRTkzIi8+PC9zdmc+Cg==" width="20" height="20" valign="middle"/> Ask me about **HTML5, CSS3, JavaScript, Python, and [complete this]**
+- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzJGMkZFNCIvPjxyZWN0IHg9IjgiIHk9IjEyIiB3aWR0aD0iMjQiIGhlaWdodD0iMTYiIHJ4PSIyLjUiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNOCAxM2wxMiA5IDEyLTkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzJGMkZFNCIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+Cg==" width="20" height="20" valign="middle"/> Reach me at **roex.hq@gmail.com**
+- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzE2MkU5MyIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMjAiIHI9IjEwIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIi8+PGVsbGlwc2UgY3g9IjIwIiBjeT0iMjAiIHJ4PSI0LjIiIHJ5PSIxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMTAgMjBoMjBNMTEuNSAxNWgxN00xMS41IDI1aDE3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS42Ii8+PC9zdmc+Cg==" width="20" height="20" valign="middle"/> All my projects live at **[mebdlrafay.github.io/dev-roex](https://mebdlrafay.github.io/dev-roex/)**
+- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzJGMkZFNCIvPjxwYXRoIGQ9Ik0xMyAyN2wxLTUgMTItMTIgNCA0LTEyIDEyLTUgMXoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMjMgMTJsNCA0IiBzdHJva2U9IiMyRjJGRTQiIHN0cm9rZS13aWR0aD0iMS41Ii8+PC9zdmc+Cg==" width="20" height="20" valign="middle"/> I regularly write articles on **[add your blog link here]**
+- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzE2MkU5MyIvPjxwYXRoIGQ9Ik0yMiA5TDEyIDIyaDZsLTIgOSAxMi0xNGgtN2wxLTh6IiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg==" width="20" height="20" valign="middle"/> Fun fact: **I build smart IoT gadgets out of everyday electronics [complete this]**
 
 ---
 
-## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:screwdriver-wrench.svg?color=%232F2FE4"> Tech Stack
+## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzJGMkZFNCIvPjxwYXRoIGQ9Ik0yNiA5YTcgNyAwIDAwLTkgOWwtOCA4IDQgNCA4LThhNyA3IDAgMDA5LTlsLTQuNSA0LjUtMy0zTDI2IDl6IiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg==" width="22" height="22" valign="middle"/> Tech Stack
 
 <div align="center">
 
@@ -81,7 +76,7 @@
 
 ---
 
-## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:chart-column.svg?color=%232F2FE4"> GitHub Stats
+## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzE2MkU5MyIvPjxyZWN0IHg9IjEwIiB5PSIyMCIgd2lkdGg9IjUiIGhlaWdodD0iMTAiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIxNy41IiB5PSIxNCIgd2lkdGg9IjUiIGhlaWdodD0iMTYiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIyNSIgeT0iOSIgd2lkdGg9IjUiIGhlaWdodD0iMjEiIGZpbGw9IiNmZmYiLz48L3N2Zz4K" width="22" height="22" valign="middle"/> GitHub Stats
 
 <div align="center">
 
@@ -96,11 +91,12 @@
 
 ---
 
-## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:rocket.svg?color=%232F2FE4"> Featured Project
+## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzE2MkU5MyIvPjxwYXRoIGQ9Ik0yMCA4YzQgMyA1LjUgOCA1LjUgMTIuNSAwIDItLjUgMy41LTEgNC41bC00LjUgNC41LTQuNS00LjVjLS41LTEtMS0yLjUtMS00LjVDMTQuNSAxNiAxNiAxMSAyMCA4eiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMTgiIHI9IjIiIGZpbGw9IiMxNjJFOTMiLz48cGF0aCBkPSJNMTUgMjJsLTMgMyAyIDUgMy0zTTI1IDIybDMgMy0yIDUtMy0zIiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTE3LjUgMjkuNUwyMCAzM2wyLjUtMy41IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIi8+PC9zdmc+Cg==" width="22" height="22" valign="middle"/> Featured Project
 
 <div align="center">
 
-### <img width="20" height="20" src="https://api.iconify.design/fa6-solid:brain.svg?color=%232F2FE4"> [Memora](https://github.com/mebdulrafay/Memora)
+### Memora
+[View Repository →](https://github.com/mebdulrafay/Memora)
 
 Actively building and looking for collaborators — check it out, open an issue, or send a PR!
 
@@ -108,7 +104,7 @@ Actively building and looking for collaborators — check it out, open an issue,
 
 ---
 
-## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:envelope-open-text.svg?color=%232F2FE4"> Let's Connect
+## <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iOCIgZmlsbD0iIzJGMkZFNCIvPjxwYXRoIGQ9Ik05IDIwbDIyLTExLTggMjItNC04LTgtM3oiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMjMgMjBsLTQgOSIgc3Ryb2tlPSIjMkYyRkU0IiBzdHJva2Utd2lkdGg9IjEuMyIvPjwvc3ZnPgo=" width="22" height="22" valign="middle"/> Let's Connect
 
 <div align="center">
 
@@ -126,6 +122,6 @@ Actively building and looking for collaborators — check it out, open an issue,
 
 <img src="https://komarev.com/ghpvc/?username=mebdulrafay&color=2F2FE4&style=flat-square&label=Profile+Views" />
 
-*Made with <img width="14" height="14" src="https://api.iconify.design/fa6-solid:heart.svg?color=%232F2FE4"> and lots of <img width="14" height="14" src="https://api.iconify.design/fa6-solid:mug-hot.svg?color=%232F2FE4">*
+*Made with love and lots of coffee*
 
 </div>
