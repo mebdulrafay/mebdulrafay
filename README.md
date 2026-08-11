@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F2FE4&center=true&vCenter=true&width=600&lines=Building+Memora+%F0%9F%9A%80;AI-Assisted+Developer+%F0%9F%A4%96;Hardware+Prototyping+Enthusiast+%F0%9F%94%A7;Turning+IoT+Ideas+Into+Reality+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F2FE4&center=true&vCenter=true&width=600&lines=Building+Memora;AI-Assisted+Developer;Hardware+Prototyping+Enthusiast;Turning+IoT+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,26 +16,31 @@
 
 ---
 
-## ✨ About Me
+## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:circle-info.svg?color=%232F2FE4"> About Me
 
 <div align="center">
 
-| 🔭 Currently Building | 🤝 Open to Collaborate On | 🆘 Looking for Help With |
+| <img width="16" height="16" src="https://api.iconify.design/fa6-solid:telescope.svg?color=%232F2FE4"> Currently Building | <img width="16" height="16" src="https://api.iconify.design/fa6-solid:handshake.svg?color=%232F2FE4"> Open to Collaborate On | <img width="16" height="16" src="https://api.iconify.design/fa6-solid:life-ring.svg?color=%232F2FE4"> Looking for Help With |
 |:---:|:---:|:---:|
 | [**Memora**](https://github.com/mebdulrafay/Memora) | **Memora** | **Memora** |
 
 </div>
 
-- 🌱 Currently learning **Advanced C++, Python Automation & [complete this]**
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Python, and [complete this]**
-- 📫 Reach me at **roex.hq@gmail.com**
-- 🌐 All my projects live at **[mebdlrafay.github.io/dev-roex](https://mebdlrafay.github.io/dev-roex/)**
-- 📝 I regularly write articles on **[add your blog link here]**
-- ⚡ Fun fact: **I build smart IoT gadgets out of everyday electronics [complete this]**
+<img width="16" height="16" src="https://api.iconify.design/fa6-solid:seedling.svg?color=%232F2FE4"> Currently learning **Advanced C++, Python Automation & [complete this]**
+<br/>
+<img width="16" height="16" src="https://api.iconify.design/fa6-solid:comment.svg?color=%232F2FE4"> Ask me about **HTML5, CSS3, JavaScript, Python, and [complete this]**
+<br/>
+<img width="16" height="16" src="https://api.iconify.design/fa6-solid:envelope.svg?color=%232F2FE4"> Reach me at **roex.hq@gmail.com**
+<br/>
+<img width="16" height="16" src="https://api.iconify.design/fa6-solid:globe.svg?color=%232F2FE4"> All my projects live at **[mebdlrafay.github.io/dev-roex](https://mebdlrafay.github.io/dev-roex/)**
+<br/>
+<img width="16" height="16" src="https://api.iconify.design/fa6-solid:pen-nib.svg?color=%232F2FE4"> I regularly write articles on **[add your blog link here]**
+<br/>
+<img width="16" height="16" src="https://api.iconify.design/fa6-solid:bolt.svg?color=%232F2FE4"> Fun fact: **I build smart IoT gadgets out of everyday electronics [complete this]**
 
 ---
 
-## 🛠️ Tech Stack
+## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:screwdriver-wrench.svg?color=%232F2FE4"> Tech Stack
 
 <div align="center">
 
@@ -76,7 +81,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:chart-column.svg?color=%232F2FE4"> GitHub Stats
 
 <div align="center">
 
@@ -91,11 +96,11 @@
 
 ---
 
-## 🚀 Featured Project
+## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:rocket.svg?color=%232F2FE4"> Featured Project
 
 <div align="center">
 
-### 🧠 [Memora](https://github.com/mebdulrafay/Memora)
+### <img width="20" height="20" src="https://api.iconify.design/fa6-solid:brain.svg?color=%232F2FE4"> [Memora](https://github.com/mebdulrafay/Memora)
 
 Actively building and looking for collaborators — check it out, open an issue, or send a PR!
 
@@ -103,7 +108,7 @@ Actively building and looking for collaborators — check it out, open an issue,
 
 ---
 
-## 📬 Let's Connect
+## <img width="22" height="22" src="https://api.iconify.design/fa6-solid:envelope-open-text.svg?color=%232F2FE4"> Let's Connect
 
 <div align="center">
 
@@ -121,6 +126,6 @@ Actively building and looking for collaborators — check it out, open an issue,
 
 <img src="https://komarev.com/ghpvc/?username=mebdulrafay&color=2F2FE4&style=flat-square&label=Profile+Views" />
 
-*Made with ❤️ and lots of ☕*
+*Made with <img width="14" height="14" src="https://api.iconify.design/fa6-solid:heart.svg?color=%232F2FE4"> and lots of <img width="14" height="14" src="https://api.iconify.design/fa6-solid:mug-hot.svg?color=%232F2FE4">*
 
 </div>
