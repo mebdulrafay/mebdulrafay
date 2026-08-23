@@ -8,8 +8,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mebdulrafay-162E93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mebdulrafay)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2F2FE4?style=for-the-badge&logo=vercel&logoColor=white)](https://mebdlrafay.github.io/dev-roex/)
+[![GitHub](https://img.shields.io/badge/GitHub-mebdulrafay-162E93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafay-os)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2F2FE4?style=for-the-badge&logo=vercel&logoColor=white)](https://rafay-os.github.io/dev-roex//)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-162E93?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roex.hq@gmail.com)
 
 </div>
@@ -22,7 +22,7 @@
 
 | <img width="16" height="16" src="https://api.iconify.design/fa6-solid:telescope.svg?color=%232F2FE4"> Currently Building | <img width="16" height="16" src="https://api.iconify.design/fa6-solid:handshake.svg?color=%232F2FE4"> Open to Collaborate On | <img width="16" height="16" src="https://api.iconify.design/fa6-solid:life-ring.svg?color=%232F2FE4"> Looking for Help With |
 |:---:|:---:|:---:|
-| [**Memora**](https://github.com/mebdulrafay/Memora) | **Memora** | **Memora** |
+| [**Memora**](https://github.com/rafay-os/Memora) | **Memora** | **Memora** |
 
 </div>
 
@@ -32,7 +32,7 @@
 <br/>
 <img width="16" height="16" src="https://api.iconify.design/fa6-solid:envelope.svg?color=%232F2FE4"> Reach me at **roex.hq@gmail.com**
 <br/>
-<img width="16" height="16" src="https://api.iconify.design/fa6-solid:globe.svg?color=%232F2FE4"> All my projects live at **[mebdlrafay.github.io/dev-roex](https://mebdlrafay.github.io/dev-roex/)**
+<img width="16" height="16" src="https://api.iconify.design/fa6-solid:globe.svg?color=%232F2FE4"> All my projects live at **[mebdlrafay.github.io/dev-roex](https://rafay-os.github.io/dev-roex/)**
 <br/>
 <img width="16" height="16" src="https://api.iconify.design/fa6-solid:pen-nib.svg?color=%232F2FE4"> I regularly write articles on **[add your blog link here]**
 <br/>
@@ -90,7 +90,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebdulrafay&theme=tokyonight&hide_border=true&background=0d1117&ring=2F2FE4&fire=162E93&currStreakLabel=2F2FE4" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mebdulrafay&theme=nord&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rafay-os&theme=nord&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -124,7 +124,7 @@ Actively building and looking for collaborators — check it out, open an issue,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F2FE4,100:162E93&height=120&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=mebdulrafay&color=2F2FE4&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=rafay-os&color=2F2FE4&style=flat-square&label=Profile+Views" />
 
 *Made with <img width="14" height="14" src="https://api.iconify.design/fa6-solid:heart.svg?color=%232F2FE4"> and lots of <img width="14" height="14" src="https://api.iconify.design/fa6-solid:mug-hot.svg?color=%232F2FE4">*
 
